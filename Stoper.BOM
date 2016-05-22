@@ -1,0 +1,20 @@
+Bill of Material for 
+On 4/3/2016 at 11:51:40 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 8MHz                R38              1    Y2                           Crystal Oscillator   
+ Battery             BAT-2            1    BT1                          Multicell Battery    
+ BS107                                2    Q1, Q2                       MOSFET BS107         
+ Buzzer              ABSM-1574        1    LS1                          Magnetic Transducer Buzzer 
+ Cap                 RAD-0.3         10    C1, C2, C3, C4, C5, C6, C7   Capacitor            
+                                           C8, C9, C10
+ DS3231                               1    U3                           RTC DS3231 3.3V      
+ Inductor            0402-A           1    L1                           Inductor             
+ LCD 16x2 3.3V                        1    DS1                          LCD 16x2 3.3V        
+ LTC3525-3.3                          1    U2                           LTC3525-3.3          
+ Res2                AXIAL-0.4       10    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10
+ STM32f103tb                          1    U1                           STM32f103tb Microcontroller 
+ SWD_CONNECTOR                        1    P1                           SWD CONNECTOR        
+ SW-PB               SPST-2           3    S1, S2, S3                   Switch               
